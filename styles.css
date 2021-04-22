@@ -81,7 +81,7 @@ header {
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.3)
     ),
-    url(../images/WhatsApp\ Image\ 2020-12-22\ at\ 4.29.29\ PM.jpeg);
+    url(/images/WhatsApp\ Image\ 2020-12-22\ at\ 4.29.29\ PM.jpeg);
   background-size: cover;
   height: 100vh;
   object-fit: scale-down;
