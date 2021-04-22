@@ -81,7 +81,7 @@ header {
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.3)
     ),
-    url('images/me.jpeg');
+    url(images/me.jpeg);
   background-size: cover;
   height: 100vh;
   object-fit: scale-down;
