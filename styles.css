@@ -334,6 +334,10 @@ h5 {
         line-height: 1;
 
     }
+    .fa {
+        width:85px
+
+    }
 
     .contact-list a {
         padding: 5px;
