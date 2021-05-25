@@ -323,7 +323,7 @@ h5 {
     .topnav2 {
         position: relative;
         top     : 150px;
-        right   : 40px;
+        right   : 0px;
         padding : 0;
         float   : center;
         margin  : 0;
