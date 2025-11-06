@@ -75,7 +75,7 @@ function App() {
 
         {/* Profile Image */}
         <div className="card profile-image-card">
-          <img src="/images/me.jpeg" alt="Mahit Parmar" className="profile-img" />
+          <img src={`${import.meta.env.BASE_URL}/images/me.jpeg`} alt="Mahit Parmar" className="profile-img" />
         </div>
 
         {/* About Card */}
