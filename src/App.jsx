@@ -81,7 +81,7 @@ function App() {
         {/* About Card */}
         <div className="card about-card">
           <div className="card-header">ABOUT</div>
-          <p className="card-text">Graduate student from the great city of Toronto. My affection towards programming landed me to the Computer Science Program at Ryerson University where I am working towards my Bachelors of Science degree. This year, I have developed my skills in Python, HTML and CSS. With my passion of designing, I have mastered Photoshop, InDesign, Illustrator, Premiere Pro.</p>
+          <p className="card-text">I’m a cybersecurity-focused IT professional with hands-on experience across incident response, cloud security, and DevSecOps tools. I enjoy solving technical problems, improving security processes, and building efficient systems that support teams and customers. I’m always learning, exploring new technologies, and looking for opportunities where I can make a meaningful impact.</p>
         </div>
 
         {/* Education Card */}
