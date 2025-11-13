@@ -28,47 +28,22 @@ function App() {
         <div className="card social-card">
           <div className="social-icons">
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-icon twitter" aria-label="Twitter">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
-              </svg>
+              <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%231DA1F2'%3E%3Cpath d='M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z'/%3E%3C/svg%3E" alt="Twitter" />
             </a>
             <a href="https://dribbble.com" target="_blank" rel="noopener noreferrer" className="social-icon dribbble" aria-label="Dribbble">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <circle cx="12" cy="12" r="10"/>
-                <path d="M8.56 2.75c4.37 6.03 6.02 9.42 8.03 17.72"/>
-                <path d="M12 22c-3.17-5.73-7.76-5.42-8.64-9.64"/>
-                <path d="M5.69 12.74c2.92-8.67 4.3-6.24 10.44-8.57"/>
-              </svg>
+              <img src="https://cdn.simpleicons.org/dribbble/EA4C89" alt="Dribbble" />
             </a>
             <a href="https://www.instagram.com/mahitparmar/" target="_blank" rel="noopener noreferrer" className="social-icon instagram" aria-label="Instagram">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
-                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
-                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
-              </svg>
+              <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
             </a>
             <a href="https://www.linkedin.com/in/mahitparmar/" target="_blank" rel="noopener noreferrer" className="social-icon linkedin" aria-label="LinkedIn">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
-                <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
-                <rect x="2" y="9" width="4" height="12"/>
-                <circle cx="4" cy="4" r="2"/>
-              </svg>
+              <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230A66C2'%3E%3Cpath d='M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9.75h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9.75h3.564v10.702zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z'/%3E%3C/svg%3E" alt="LinkedIn" />
             </a>
             <a href="https://www.behance.net" target="_blank" rel="noopener noreferrer" className="social-icon behance" aria-label="Behance Portfolio">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M16.5 8.5c-.5 0-1-.3-1-.8 0-.5.5-.8 1-.8h2.5c.5 0 .9.3.9.8 0 .5-.4.8-.9.8h-2.5z"/>
-                <path d="M15 2H9v12h6c2.5 0 4.5-2 4.5-4.5S17.5 2 15 2z"/>
-                <path d="M9 15H21"/>
-                <path d="M9 2H21"/>
-                <path d="M9 8H21"/>
-              </svg>
+              <img src="https://cdn.simpleicons.org/behance/1769FF" alt="Behance" />
             </a>
             <a href="Mailto:maparmar368@gmail.com" className="social-icon email" aria-label="Email">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-                <polyline points="22,6 12,13 2,6"/>
-              </svg>
+              <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" />
             </a>
           </div>
         </div>
