@@ -29,15 +29,11 @@ npm run preview
 ## Project Structure
 
 - `src/` - React source files
-- `public/` - Static assets
-- `images/` - Portfolio images
+- `public/` - Static assets (images, etc.)
 
 ## Deployment
 
-This project is configured for GitHub Pages deployment. Your original HTML/CSS files have been backed up:
-- `index.old.html` - Original index page
-- `styles.old.css` - Original styles
-- `about.html.backup` - Original about page
+This project is configured for GitHub Pages deployment.
 
 ## Tech Stack
 
